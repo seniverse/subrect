@@ -1,0 +1,7 @@
+*~
+*.beam
+*.crashdump
+_build/
+src/subrect_lexer.erl
+src/subrect_parser.erl
+rebar.lock
